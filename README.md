@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hi!
 
 I am an IT enthusiast, passionate about learning and exploring various technologies. My areas of focus include:
 
