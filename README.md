@@ -2,7 +2,7 @@
 
 Passionate about learning and exploring various technologies. 
 
-My areas of focus include:
+## 🎯 My areas of focus include:
 
 - ☁️ **Cloud Platforms**: AWS, Azure, GCP, OpenStack
 - 🐍 **Programming Languages**: Python, JavaScript
