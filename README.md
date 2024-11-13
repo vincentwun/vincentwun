@@ -1,10 +1,10 @@
-# 👋 Hi!
+# 👋 Hi! I am Vincent, an IT enthusiast.
 
-I am an IT enthusiast, passionate about learning and exploring various technologies. My areas of focus include:
+Passionate about learning and exploring various technologies. My areas of focus include:
 
-- ☁️ **Cloud Platforms**: AWS, Azure, GCP
+- ☁️ **Cloud Platforms**: AWS, Azure, GCP, OpenStack
 - 🐍 **Programming Languages**: Python, JavaScript
-- 🐳 **Containerization Technologies**: Docker, Kubernetes (K8S)
+- 🐳 **Containerization Technologies**: Docker, Kubernetes (K8S), Redhat OpenShift
 
 ## 🚀 My Interests
 
