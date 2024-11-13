@@ -1,6 +1,8 @@
 # 👋 Hi! I am Vincent, an IT enthusiast.
 
-Passionate about learning and exploring various technologies. My areas of focus include:
+Passionate about learning and exploring various technologies. 
+
+My areas of focus include:
 
 - ☁️ **Cloud Platforms**: AWS, Azure, GCP, OpenStack
 - 🐍 **Programming Languages**: Python, JavaScript
