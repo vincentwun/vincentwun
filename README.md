@@ -1,4 +1,4 @@
-# 👋 Hi! I am Vincent, an IT enthusiast.
+# 👋 Hi! I am Vincent, an IT enthusiast. 🧑‍💻
 
 Passionate about learning and exploring various technologies. 
 
