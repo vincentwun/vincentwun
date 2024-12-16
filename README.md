@@ -6,7 +6,7 @@ Passionate about learning and exploring various technologies.
 
 - ☁️ **Cloud Platforms**: AWS, Azure, GCP, OpenStack
 - 🐍 **Programming Languages**: Python, JavaScript
-- 🐳 **Containerization Technologies**: Docker, Kubernetes (K8S), Redhat OpenShift
+- 🐳 **Containerization Technologies**: Docker, Kubernetes, Redhat OpenShift
 
 ## 🚀 My Interests
 
