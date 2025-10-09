@@ -1,21 +1,28 @@
 # 👋 Hi! I am Vincent, an IT enthusiast. 🧑‍💻
 
-🧠Passionate about exploring various technologies.
+👤 A person who:
 
-🛠️Building practical software to solve problems.
+🧠 Always excited to learn and explore new technologies.
 
-⚡Turning innovative ideas into reality efficiently.
+🛠️ Dedicated to turning ideas into impactful solutions.
 
-## 🎯 My Focus:
+## ⚡ My Interests:
 
-☁️ **Infrastructure & Platforms**:
+☁️ **Cloud Platforms**:
 - AWS, Azure, GCP
-- Redhat OpenShift, OpenStack
 - Docker, Kubernetes
 - Terraform
 
-⚙️ **Application Development**:
-- JavaScript
-- Python, Node.js
+🌐 **Web Application Development**:
+- React, TypeScript
+- Node.js, Express.js
+- Python(Flask)
 
 ---
+
+## 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentwun&layout=compact&theme=radical)
+
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentwun&show_icons=true&theme=radical)  
+
