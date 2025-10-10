@@ -22,6 +22,3 @@
 ## 📊 GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentwun&layout=compact&theme=radical)
-
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentwun&show_icons=true&theme=radical)  
-
