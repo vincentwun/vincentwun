@@ -11,12 +11,12 @@
 ☁️ **Cloud Platforms**:
 - AWS, Azure, GCP
 - Docker, Kubernetes
-- Terraform
+- Terraform, Ansible
 
 🌐 **Web Application Development**:
 - React, TypeScript
 - Node.js, Express.js
-- Python(Flask)
+- Python
 
 
 ## 📊 GitHub Stats  
