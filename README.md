@@ -13,12 +13,8 @@
 - Docker, Kubernetes
 - Terraform, Ansible
 
-🌐 **Web Application Development**:
+🌐 **Mobile & Web Application Development**:
 - React, TypeScript
 - Node.js, Express.js
+- React Native
 - Python
-
-
-## 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentwun&layout=compact&theme=radical)
