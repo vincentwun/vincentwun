@@ -8,13 +8,8 @@
 
 ## ⚡ My Interests:
 
-☁️ **Cloud Platforms**:
-- AWS, Azure, GCP
-- Docker, Kubernetes
-- Terraform, Ansible
+☁️ **Cloud Platforms**
 
-🌐 **Mobile & Web Application Development**:
-- React, TypeScript
-- Node.js, Express.js
-- React Native
-- Python
+🌐 **Mobile & Web Application Development**
+
+🤖 Deep Learning & Machine Learning
